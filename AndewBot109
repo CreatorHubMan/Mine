@@ -1,0 +1,5 @@
+num_1 = input("select number one")
+num_2 = ("select number two")
+print("processing data transmissions")
+num_ans = {num_1} + {num_2}
+print("the answer is {num_ans})
